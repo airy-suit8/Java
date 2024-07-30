@@ -16,7 +16,7 @@ public class Pra {
             double rupees = amount*100;
             System.out.println(amount + " Pounds = " + rupees + " Rupees");
         }
-    System.out.println("23DCS018 Tirth Dalal ");
+    System.out.println("23DCS027 Tirth Ganatra");
 
 }
 
