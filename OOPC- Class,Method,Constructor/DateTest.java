@@ -53,6 +53,6 @@ D.setm();
 System.out.println("enter year:");
 D.sety();
 D.displayDate();
-System.out.println("23DCS018 Tirth Dalal ");
+System.out.println("23DCS027 Tirth Ganatra");
 }
 }
