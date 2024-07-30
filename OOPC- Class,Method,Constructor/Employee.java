@@ -50,6 +50,6 @@ E1.setsal();
 
 System.out.println("Employee name:"+E1.getfs()+" "+E1.getls());
 System.out.println("Salary:"+E1.getsal());
-System.out.println("23DCS018 Tirth Dalal ");
+System.out.println("23DCS027 Tirth Ganatra");
 }
 }
