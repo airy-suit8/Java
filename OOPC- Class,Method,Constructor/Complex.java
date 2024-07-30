@@ -50,6 +50,6 @@ public class ComplexI {
         System.out.println("Sum: " + sum);
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
-System.out.println("23DCS018 Tirth Dalal ");
+System.out.println("23DCS027 Tirth Ganatra");
     }
 }
